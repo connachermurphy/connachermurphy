@@ -1,4 +1,4 @@
-economics and machine learning
+forecasting research and economics
 
 <!---
 connachermurphy/connachermurphy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
